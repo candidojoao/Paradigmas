@@ -14,7 +14,7 @@ Esses valores são aproximados e podem variar conforme experiência, região e e
 ---
 
 ## Vaga em destaque
-j
+
 ### GPU Compiler Development Engineer — NVIDIA
 
 A vaga é voltada para a equipe responsável pelo **Assembler de GPU da NVIDIA**.
@@ -89,3 +89,34 @@ Assembly é uma linguagem de baixo nível usada em áreas como:
 - arquitetura de processadores
 
 Apesar de ser mais complexo, esse conhecimento pode levar a vagas altamente especializadas em empresas como NVIDIA, AMD, Intel e Apple.
+
+---
+
+## Oportunidades em Maringá
+
+Embora vagas exclusivamente para **Assembly** sejam raras, existem oportunidades na área de **sistemas embarcados**, onde o conhecimento de Assembly é um diferencial.
+
+### Digipower – Desenvolvedor de Sistemas Embarcados Pleno
+
+**Local:** Maringá – PR
+
+**Principais requisitos:**
+- Programação em C para sistemas embarcados;
+- Microcontroladores STM32;
+- Protocolos UART, SPI, I²C e CAN;
+- Desenvolvimento de firmware;
+- Git e inglês avançado.
+
+**Atividades:**
+- Desenvolvimento de placas eletrônicas;
+- Criação de firmware embarcado;
+- Testes e validação de hardware;
+- Desenvolvimento de ferramentas de teste.
+
+### Outra vaga encontrada
+
+Também foi localizada uma vaga para **Desenvolvedor de Sistemas Embarcados** em Maringá, utilizando **C e C++** para desenvolvimento de firmware em dispositivos eletrônicos, envolvendo automação, sensores e protocolos industriais.
+
+### Observação
+
+Não foram encontradas vagas que exigissem **Assembly como linguagem principal** em Maringá. O mercado local concentra oportunidades em **firmware e sistemas embarcados**, onde Assembly é utilizado apenas em partes específicas do desenvolvimento, principalmente para otimizações, inicialização de hardware e comunicação de baixo nível.
