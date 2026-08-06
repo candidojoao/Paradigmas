@@ -1,14 +1,15 @@
-## Faixa Salarial por Nível
+## Faixa Salarial por Nível — em Dólares
 
-Os valores abaixo representam uma média do mercado brasileiro para profissionais de **software embarcado**, área onde o conhecimento de Assembly é mais utilizado.
+Os valores abaixo representam uma estimativa mensal para profissionais de **software embarcado** no Brasil, convertida de reais para dólares.
 
-| Nível      | Faixa Salarial             |
-| ---------- | -------------------------- |
-| **Júnior** | **R$ 4.000 a R$ 7.000**    |
-| **Pleno**  | **R$ 7.000 a R$ 11.000**   |
-| **Sênior** | **R$ 12.000 a R$ 20.000+** |
+| Nível      |      Faixa salarial mensal |
+| ---------- | -------------------------: |
+| **Júnior** |    **US$ 780 a US$ 1.360** |
+| **Pleno**  |  **US$ 1.360 a US$ 2.140** |
+| **Sênior** | **US$ 2.330 a US$ 3.890+** |
 
- **Observação:** Os salários variam conforme a empresa, a experiência do profissional e a complexidade do projeto. Empresas de setores como aviação, telecomunicações, semicondutores e defesa costumam oferecer as maiores remunerações.
+> **Observação:** os valores foram convertidos usando aproximadamente **US$ 0,195 para cada R$ 1**. A cotação do dólar varia diariamente. Essas faixas representam salários brasileiros convertidos para dólares, e não salários pagos diretamente por empresas estrangeiras.
+
 
 ## Oportunidades em Maringá
 
